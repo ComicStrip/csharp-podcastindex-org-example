@@ -17,8 +17,7 @@ https://www.mono-project.com/download/stable/
     string apiKey = "ABC"; 
     string apiSecret = "ABC";
 ```
-4)
-compile:
+4) compile:
 ```
     csc podcasting-index.cs
 ```
