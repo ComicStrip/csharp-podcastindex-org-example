@@ -1,5 +1,9 @@
 # csharp-podcastindex-org-example
 
+C# example for https://podcastindex.org
+
+this source code was originally written by Dave Jones and only adapted by me (CSB) to run in multi-platform way
+
 how to use (on mac and PC and Linux)
 
 1) download .NET (mono) for macOS, Linux, Windows, Docker from:
